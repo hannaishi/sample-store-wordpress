@@ -6,8 +6,7 @@ HTML・SCSS・JavaScriptで制作した架空のコンビニサイトを、WordP
 
 ## デモ
 
-※現在はローカル環境で開発しています。
-（公開URLがある場合はここに記載）
+https://nmhr12.com/sample-store/
 
 ## 使用技術
 
