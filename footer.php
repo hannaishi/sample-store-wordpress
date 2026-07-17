@@ -29,7 +29,7 @@
       <p class="copyright">&copy;2026 地域のコンビニ.All rights reserved.</p>
     </footer>
     
-
+    <?php wp_footer(); ?>
   </body>
 
 </html>
