@@ -1,6 +1,7 @@
 # Sample-Store
 
 2026/07/17
+![Sample Store](screenshot.png)
 
 HTML・SCSS・JavaScriptで制作した架空のコンビニサイトを、WordPressのオリジナルテーマとして構築した作品です。
 
